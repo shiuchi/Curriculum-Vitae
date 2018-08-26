@@ -87,4 +87,4 @@ Flashエンジニアとしてアメーバピグ等のアバターサービス、
 
 職務: インタラクションデザイナー
 
-- インタラクションデザイナーとしてFlashを使用したウェブ広告の作成を担当。ポートフォリオは[こちら](https://drive.google.com/open?id=1_BLxl9tthoLhi3RldgoBRS8H6WelwUwH)
+- インタラクションデザイナーとしてFlashを使用したウェブ広告の作成を担当。ポートフォリオは[こちら](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download)
