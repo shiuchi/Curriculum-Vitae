@@ -2,9 +2,24 @@
 
 ## 基本情報
 
-|key|value|
-|---|-----|
-|Name|志内幸彦|
+志内幸彦 （シウチサチヒコ）
+
+1982年３月５日生まれ
+インタラクションデザイナー
+Flashエンジニア
+iOSエンジニア
+
+武蔵野美術大学造形学部デザイン情報学科卒業　（2006年 ５期生）
+学生時代はインタラクションデザイン、UI,UXデザインを専攻。
+卒業後、IMGRC.inc入社　インタラクションデザイナー、エンジニアとして多数のプロジェクトに参加
+2009年、サイバーエージェント入社。
+Flashエンジニアとしてアメーバピグ等のアバターサービス、ゲーム開発を担当。
+その後iOSエンジニアとしてライブ配信アプリ、アメーバブログのアプリの開発に従事。現在に至る
+
+- 2010~2018 [works](https://slides.com/shiuchi/deck-1)
+
+- 2006~2009 [works](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) (要 Adobe AIR)
+
 
 ## スキル
 
@@ -21,24 +36,11 @@
 ### フレームワーク
 
 - Framework名
-  - archaique-utils-ios
-  - SwiftDIContainer
-  - SwiftCallBack
-
-### その他
-1982年３月５日生まれ
-インタラクションデザイナー
-Flashエンジニア
-iOSエンジニア
-
-
-武蔵野美術大学造形学部デザイン情報学科卒業　（2006年 ５期生）
-学生時代はインタラクションデザイン、UI,UXデザインを専攻。
-卒業後、IMGRC.inc入社　インタラクションデザイナー、エンジニアとして多くのプロジェクトに参加
-2009年、サイバーエージェント入社。
-Flashエンジニアとしてアメーバピグ等のアバターサービス、ゲーム開発を担当。
-その後iOSエンジニアとして動画配信アプリ、アメーバブログのアプリの開発に従事。現在に至る
-
+  - [archaique-utils-ios](https://github.com/shiuchi/archaique-utils-ios)
+  - [SwiftDIContainer](https://github.com/shiuchi/SwiftDIContainer)
+  - [SwiftCallBack](https://github.com/shiuchi/SwiftCallBack)
+  - [archaique_as3](https://github.com/shiuchi/archaique_as3)
+  -
 ## 強み
   - インタラクティブなコンテンツの作成に関わった経験あり
   - リードエンジニアとしてサービスの立ち上げ、運用に関わった経験あり
@@ -87,4 +89,4 @@ Flashエンジニアとしてアメーバピグ等のアバターサービス、
 
 職務: インタラクションデザイナー
 
-- インタラクションデザイナーとしてFlashを使用したウェブ広告の作成を担当。ポートフォリオは[こちら](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download)
+- インタラクションデザイナーとしてFlashを使用したウェブ広告の作成を担当。ポートフォリオは[こちら](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) *要 Adobe AIR
