@@ -35,7 +35,7 @@
 ### フレームワーク
 
 - Framework名
-  - [archaique-utils-ios](https://github.com/shiuchi/archaique-utils-ios)
+  - [ArchaiqueUtils](https://github.com/shiuchi/ArchaiqueUtils)
   - [SwiftDIContainer](https://github.com/shiuchi/SwiftDIContainer)
   - [SwiftCallBack](https://github.com/shiuchi/SwiftCallBack)
   - [Builder](https://github.com/shiuchi/Builder)
