@@ -38,6 +38,7 @@
   - [ArchaiqueUtils](https://github.com/shiuchi/ArchaiqueUtils)
   - [SwiftDIContainer](https://github.com/shiuchi/SwiftDIContainer)
   - [SwiftCallBack](https://github.com/shiuchi/SwiftCallBack)
+  - [Invoker](https://github.com/shiuchi/Invoker)
   - [Builder](https://github.com/shiuchi/Builder)
   - [archaique_as3](https://github.com/shiuchi/archaique_as3)
 
@@ -54,6 +55,10 @@
   - The FWA site of today
 
 ## 職務経歴
+
+### 2019/2 - : 株式会社メルカリ
+
+職務: iOSエンジニア/デザインテクノロジスト
 
 ### 2009/10 - : 株式会社サイバーエージェント
 
