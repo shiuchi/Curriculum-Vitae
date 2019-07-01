@@ -34,7 +34,6 @@
 
 ### フレームワーク
 
-- Framework名
   - [ArchaiqueUtils](https://github.com/shiuchi/ArchaiqueUtils)
   - [SwiftDIContainer](https://github.com/shiuchi/SwiftDIContainer)
   - [SwiftCallBack](https://github.com/shiuchi/SwiftCallBack)
