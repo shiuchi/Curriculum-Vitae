@@ -5,7 +5,7 @@
 ##### 志内幸彦 （シウチサチヒコ）
 
 - 1982年３月５日生まれ
-- Design technologist, iOS Engineer
+- iOS Engineer, Design technologist
 
 - 武蔵野美術大学造形学部デザイン情報学科卒業　（2006年 ５期生）インタラクションデザイン、UI,UXデザインを専攻。
 
@@ -13,7 +13,7 @@
 
 - 2009年、株式会社サイバーエージェント入社。Flashエンジニアとしてアメーバピグ等のアバターサービス、ゲーム開発を担当。その後iOSエンジニアとしてライブ配信アプリ、アメーバブログのアプリの開発に従事。
 
-- 20019年2月、株式会社Mercariに入社。Design technologist, iOS Engineerとしてアプリ開発に従事。現在に至る
+- 20019年2月、株式会社Mercariに入社。iOS Engineer, Design technologistとしてアプリ開発に従事。現在に至る
 
 - 2010~2018 [works](https://slides.com/shiuchi/deck-1)
 
