@@ -29,9 +29,6 @@
 - ActionScript2
 - JavaScript
 
-- 日本語
-  - ネイティブ
-
 ### フレームワーク
 - Swift
   - [SwiftDIContainer](https://github.com/shiuchi/SwiftDIContainer)
