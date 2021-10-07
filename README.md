@@ -2,23 +2,18 @@
 
 ## Basic Information
 
-##### Sachihiko Shiuchi
-
-- Born in 1982
+#####  Shiuchi
 - iOS Engineer, Design technologist
 
-- Graduated from Musashino Art University, Department of Design Information (2006), majoring in interaction design, UI and UX design.
+- In 20019, joined Mercari Inc. as an iOS Engineer and Design technologist, working on DesignSystem development for multiple platforms.
+
+- In 2009, joined CyberAgent, Inc. as a Flash engineer in charge of avatar services such as Ameba Pigg and game development. Later, as an iOS engineer, he was engaged in the development of live streaming applications and Amoeba Blog applications.
 
 - in 2006, joined IMGRC.inc, Participated in many projects as an interaction designer and Flash engineer
 
-- In 2009, joined CyberAgent, Inc. as a Flash engineer in charge of avatar services such as Amoeba Pig and game development. Later, as an iOS engineer, he was engaged in the development of live streaming applications and Amoeba Blog applications.
+- Graduated from Musashino Art University, Department of Design Information (2006), majoring in interaction design, UI and UX design.
 
-- In 2007, joined Mercari Inc. as an iOS Engineer and Design technologist, working on DesignSystem development for multiple platforms.
-
-- 2010~2018 [works](https://slides.com/shiuchi/deck-1)
-
-- 2006~2009 [works](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) (要 Adobe AIR)
-
+-  [works](https://slides.com/shiuchi/deck-1)
 
 ## Skills
 - SwiftUI, Swift
@@ -124,4 +119,4 @@ iOS Engineer / Flash Engineer
 ### 2009/1 - 2009/9: Worked as a freelance Flash engineer
 
 ### 2006/4 - 2008/12: IMGSRC.inc
-- As an interaction designer, he was in charge of creating web ads using Flash. [portfolio](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) *Requires Adobe AIR
+- As an interaction designer, he was in charge of creating web ads using Flash.
