@@ -1,8 +1,6 @@
 # Curriculum vitae
 
 ## Basic Information
-
-#####  Shiuchi
 - iOS Engineer, Design technologist
 
 - In 20019, joined Mercari Inc. as an iOS Engineer and Design technologist, working on DesignSystem development for multiple platforms.
