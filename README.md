@@ -1,35 +1,33 @@
-# 職務経歴書
+# Curriculum vitae
 
-## 基本情報
+## Basic Information
 
-##### 志内幸彦 （シウチサチヒコ）
+##### Sachihiko Shiuchi
 
-- 1982年生まれ
+- Born in 1982
 - iOS Engineer, Design technologist
 
-- 武蔵野美術大学造形学部デザイン情報学科卒業　（2006年）インタラクションデザイン、UI,UXデザインを専攻。
+- Graduated from Musashino Art University, Department of Design Information (2006), majoring in interaction design, UI and UX design.
 
-- 卒業後、IMGRC.inc入社　インタラクションデザイナー、エンジニアとして多数のプロジェクトに参加
+- in 2006, joined IMGRC.inc, Participated in many projects as an interaction designer and Flash engineer
 
-- 2009年、株式会社サイバーエージェント入社。Flashエンジニアとしてアメーバピグ等のアバターサービス、ゲーム開発を担当。その後iOSエンジニアとしてライブ配信アプリ、アメーバブログのアプリの開発に従事。
+- In 2009, joined CyberAgent, Inc. as a Flash engineer in charge of avatar services such as Amoeba Pig and game development. Later, as an iOS engineer, he was engaged in the development of live streaming applications and Amoeba Blog applications.
 
-- 20019年2月、株式会社Mercariに入社。iOS Engineer, Design technologistとしてアプリ開発に従事。現在に至る
+- In 2007, joined Mercari Inc. as an iOS Engineer and Design technologist, working on DesignSystem development for multiple platforms.
 
 - 2010~2018 [works](https://slides.com/shiuchi/deck-1)
 
 - 2006~2009 [works](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) (要 Adobe AIR)
 
 
-## スキル
-
-### 言語
-- Swift
+## Skills
+- SwiftUI, Swift
 - c++(cocos2d-x)
 - ActionScript3
 - ActionScript2
 - JavaScript
 
-### フレームワーク
+### OSS
 - Swift
   - [SwiftDIContainer](https://github.com/shiuchi/SwiftDIContainer)
   - [SwiftCallBack](https://github.com/shiuchi/SwiftCallBack)
@@ -40,95 +38,90 @@
   - [Builder](https://github.com/shiuchi/Builder)
   - [archaique_as3](https://github.com/shiuchi/archaique_as3)
 
-## 強み
-  - リードエンジニアとしてサービスの新規立ち上げ、運用に関わった経験
-  - 20名規模のエンジニアマネージャーとしての経験
-  - 事業ボードメンバーとしての経験
-  - 全体設計、アーキテクチャ刷新等プロダクトのコアとなる部分の実装経験
-  - プロジェクト全体として使用するフレームワークの実装経験
-  - インタラクティブなコンテンツの作成に関わった経験
-  - socketを利用した同期コンテンツの経験
-  - UI,UXに関する知識
-## 興味があるもの
-  - iOSやAndroidといった括りにこだわらず、技術領域を広げたいと考えています。
-またエンジニアリングだけでなく、UI,UX等プロダクトの品質に関わる分野には職種の壁を超えて関わっていきたいと考えています。
-## 受賞歴
+## experience
+  - Experience as a lead engineer involved in the launch and operation of a new service
+  - Experience as an engineering manager of 20 people
+  - Experience as a business board member
+  - Experience in implementation of core product components such as overall design and architecture renewal
+  - Experience implementing frameworks to be used throughout the project
+  - Experience in creating interactive content
+  - Experience with synchronous content using web sockets
+  - Knowledge of UI and UX
+
+## Awards
   - WebMoney Award 2011 BEST GAMES
   - Webby Awards 2009. Website Dev, Restrant. Offical Honoree
   - AC+C 04 AWARD 2007 sales promotion Dept.Sliver
   - The FWA site of today
 
-## 職務経歴
+## Work history
 
-### 2019/2 - : 株式会社メルカリ
+### 2019/2 - : Mercari, inc.
 
-職務: iOSエンジニア/デザインテクノロジスト
+iOS Engineer/Design Technologist
 
-### 2009/10 - : 株式会社サイバーエージェント
+### 2009/10 - : CyberAgent, Inc.
 
-職務: iOSエンジニア/Flashエンジニア
+iOS Engineer / Flash Engineer
 
-#### アメーバブログ(Obj-c, swift)
-- アメーバブログのiOS開発エンジニアとして開発に参加。古くから続くサービスのレガシーコードのswift化
-- RxSwift導入
-- FireBase導入
-- FAN導入
-- アーキテクチャ選定と刷新(MVVM,Viper, CleanArchitecture)
-- 新規機能開発
-- 若手エンジニア育成とリーダーのサポート業務などを担当
+#### Ameba Blog (Obj-c, swift)
+- Participated in the development of Amoeba Blog as an iOS development engineer. Converting the legacy code of an old service to swift.
+- Introduction of RxSwift
+- FireBase Introduction
+- FAN installation
+- Architecture selection and renovation (MVVM, Viper, CleanArchitecture)
+- New Function Development
+- Responsible for training young engineers and supporting their leaders.
 
 #### AMESTAGE(swift)
 
-- 芸能人とファンが一緒にあそべる参加型生放送サービス。立ち上げから運用までiOSエンジニアとして参加。
-- ライブ配信とコーナーと呼ばれるユーザー参加型のゲーム機能の設計開発
-- スタンプと呼ばれる応援機能の設計と開発
-- AnimationPlayer機能(アフィン変換を使用した汎用的モーションプレイヤー)の実装
-- アニメーション制作監修
-- 動画配信後のタイムシフト放送の実装
-- 社内向けアニメーション開発運用ツールの作成を担当（animationのmatrixデーターとスプライトシートを圧縮画像とjSONファイルに変換し出力）
+- A participatory live broadcasting service where celebrities and fans can play together. Participated as an iOS engineer from launch to operation.
+- Design and development of live-streaming and user-participatory game functions called corners
+- Design and development of a cheering function called Stamps.
+- Implementation of the AnimationPlayer function (a generic motion player using affine transformation)
+- Animation Production Supervisor
+- Implementation of time-shift broadcasting after video streaming
+- Created animation development operation tools for in-house use (converted animation matrix data and sprite sheets into compressed images and jSON files for output).
 
-#### ピグパーティ(cocos2d-x)
+#### Pigg Party(cocos2d-x)
 
-- アメーバピグのスマートフォン向けサービスのネィティブエンジニアとして開発を担当
-- Flashで使用されていたアーキテクチャの置き換え
-- アバターの基本設計
-- モーション機能の実装
-- 社内向け開発ツールなどの作成を担当。
+- Responsible for the development of Ameba pigg's smartphone service as a native engineer.
+- Replacing the architecture used in Flash
+- Basic architecture of avatar
+- Implementation of motion functions
+- Responsible for creating development tools for internal use.
 
-#### ピグブレイブ(ActionScript3)
-- アメーバピグをベースとしたオンラインRPGのFlash開発を担当
-- ショップ機能
-- パーティ編成機能
-- スタミナ関連の機能開発
+#### Pigg Brave(ActionScript3)
+- Responsible for Flash development of an online RPG based on Ameba Pgig.
+- Store function
+- Party Organization Function
+- Development of stamina-related functions
 
-#### ピグワ−ルド(ActionScript3)
-- アメーバピグをベースとした街ゲームのFlash開発を担当。リードエンジニアとしてアーキテクチャ刷新を担当
-- Isometric空間におけるオブジェクトの継承関係構築
-- 経路探索の最適化
-- モジュール開発時のDIフレームワークの作成
-- NPC機能開発
-- 表示軽量化（SVGを使用した描画軽量化）
-- アニメーション制作監修
-- イベント機能
+#### Pigg Workd(ActionScript3)
+- Responsible for Flash development of a city game based on Ameba Pigg. Responsible for architecture revamp as lead engineer.
+- Building Inheritance Relationships of Objects in Isometric Space
+- Optimization of route search(Astar)
+- Creating a DI framework for module development
+- NPC function development
+- Display process optimization (drawing process using SVG)
+- Animation Production Supervisor
+- Event function
 
 
 #### World Chef(ActionScript3)
-- アメーバピグをベースとしたカフェゲーム（FaceBookアプリ）のFlash開発を担当
-- 料理レシピ作成機能
-- アバター連動機能の開発
-- アニメーション制作
-- ガチャ機能
+- Responsible for Flash development of a cafe game (FaceBook application) based on Ameba Pigg.
+- Cooking recipe creation function
+- Development of avatar linkage function
+- Animation Production
+- Gacha function
 
 #### Ameba Pico(ActionScript3)
-- 海外版アメーバピグ（FaceBookアプリ）のFlash開発を担当。
-- 全体のローカライズ
-- ガチャ機能
-- イベント機能
+- In charge of Flash development for the overseas version of Ameba Pigg (FaceBook application).
+- localize
+- Gacha function
+- Event function
 
-### 2009/1 - 2009/9: フリーランスのFlashエンジニアとして活動
+### 2009/1 - 2009/9: Worked as a freelance Flash engineer
 
 ### 2006/4 - 2008/12: IMGSRC.inc
-
-職務: インタラクションデザイナー
-
-- インタラクションデザイナーとしてFlashを使用したウェブ広告の作成を担当。ポートフォリオは[こちら](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) *要 Adobe AIR
+- As an interaction designer, he was in charge of creating web ads using Flash. [portfolio](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) *Requires Adobe AIR
