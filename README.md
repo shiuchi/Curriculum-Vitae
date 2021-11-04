@@ -3,7 +3,7 @@
 ## Basic Information
 - iOS Engineer, Design technologist
 
-- In 20019, joined Mercari Inc. as an iOS Engineer and Design technologist, working on DesignSystem development for multiple platforms.
+- In 2019, joined Mercari Inc. as an iOS Engineer and Design technologist, working on DesignSystem development for multiple platforms.
 
 - In 2009, joined CyberAgent, Inc. as a Flash engineer in charge of avatar services such as Ameba Pigg and game development. Later, as an iOS engineer, he was engaged in the development of live streaming applications and Amoeba Blog applications.
 
@@ -39,8 +39,10 @@
   - Experience implementing frameworks to be used throughout the project
   - Experience in creating interactive content
   - Experience with synchronous content using web sockets
+  - Knowledge of DesignSystem development for multiple platforms
+  - Knowledge of SwiftUI
+  - Implementation and knowledge of a11y
   - Knowledge of UI and UX
-
 ## Awards
   - WebMoney Award 2011 BEST GAMES
   - Webby Awards 2009. Website Dev, Restrant. Offical Honoree
