@@ -3,27 +3,18 @@
 ## 基本情報
 
 ##### 志内幸彦 （シウチサチヒコ）
-
-- 1982年生まれ
 - iOS Engineer, Design technologist
-
 - 武蔵野美術大学造形学部デザイン情報学科卒業　（2006年）インタラクションデザイン、UI,UXデザインを専攻。
-
-- 卒業後、IMGRC.inc入社　インタラクションデザイナー、エンジニアとして多数のプロジェクトに参加
-
+- 2006年、IMGRC.inc入社　インタラクションデザイナー、エンジニアとして多数のプロジェクトに参加
 - 2009年、株式会社サイバーエージェント入社。Flashエンジニアとしてアメーバピグ等のアバターサービス、ゲーム開発を担当。その後iOSエンジニアとしてライブ配信アプリ、アメーバブログのアプリの開発に従事。
-
-- 20019年2月、株式会社Mercariに入社。iOS Engineer, Design technologistとしてアプリ開発に従事。現在に至る
+- 2019年、株式会社メルカリに入社し、iOSエンジニア兼デザインテクノロジストとして、マルチプラットフォーム対応のデザインシステム開発に従事。
 
 - 2010~2018 [works](https://slides.com/shiuchi/deck-1)
-
-- 2006~2009 [works](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) (要 Adobe AIR)
-
 
 ## スキル
 
 ### 言語
-- Swift
+- SwiftUI, Swift
 - c++(cocos2d-x)
 - ActionScript3
 - ActionScript2
@@ -48,6 +39,9 @@
   - プロジェクト全体として使用するフレームワークの実装経験
   - インタラクティブなコンテンツの作成に関わった経験
   - socketを利用した同期コンテンツの経験
+  - マルチプラットフォーム対応のDesignSystem開発の知識
+  - SwiftUIの知識
+  - a11yに対応した実装と知識
   - UI,UXに関する知識
 ## 興味があるもの
   - iOSやAndroidといった括りにこだわらず、技術領域を広げたいと考えています。
@@ -63,6 +57,12 @@
 ### 2019/2 - : 株式会社メルカリ
 
 職務: iOSエンジニア/デザインテクノロジスト
+
+#### Design System開発
+- DesignSystem Teamに参加。マルチプラットフォーム（iOS, Android, Web, Figma）対応のDesignSystemのiOS開発担当。
+- SwiftUIを使用したViewコンポーネントの開発
+- すべてのプラットフォームで使用可能なMotionToken（EasingToken, DurationToken）の開発
+- DarkMode, DynamicTypeやVoiceOverなどのa11y対応
 
 ### 2009/10 - : 株式会社サイバーエージェント
 
@@ -131,4 +131,4 @@
 
 職務: インタラクションデザイナー
 
-- インタラクションデザイナーとしてFlashを使用したウェブ広告の作成を担当。ポートフォリオは[こちら](https://drive.google.com/uc?id=1yG5RW8R22HXRghcHoO6Rpm3IIDzj2gjP&export=download) *要 Adobe AIR
+- インタラクションデザイナーとしてFlashを使用したウェブ広告の作成を担当。受賞歴多数。

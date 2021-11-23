@@ -5,7 +5,7 @@
 
 - In 2019, joined Mercari Inc. as an iOS Engineer and Design technologist, working on DesignSystem development for multiple platforms.
 
-- In 2009, joined CyberAgent, Inc. as a Flash engineer in charge of avatar services such as Ameba Pigg and game development. Later, as an iOS engineer, he was engaged in the development of live streaming applications and Amoeba Blog applications.
+- In 2009, joined CyberAgent Inc. as a Flash engineer in charge of avatar services such as Ameba Pigg and game development. After that, worked as an iOS engineer developing live-streaming applications and Ameba Blog applications.
 
 - in 2006, joined IMGRC.inc, Participated in many projects as an interaction designer and Flash engineer
 
@@ -54,6 +54,13 @@
 ### 2019/2 - : Mercari, inc.
 
 iOS Engineer/Design Technologist
+
+#### Design System Development
+- Joined the DesignSystem Team. In charge of iOS development for DesignSystem, which supports multiple platforms (iOS, Android, Web, Figma).
+- Developed View components using SwiftUI.
+- Developed MotionToken (EasingToken, DurationToken) that can be used on all platforms.
+- Support for a11y such as DarkMode, DynamicType and VoiceOver
+
 
 ### 2009/10 - : CyberAgent, Inc.
 
